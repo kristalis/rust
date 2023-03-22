@@ -38,8 +38,8 @@ use holiday as Holiday;
 
 fn main() {
   // gen_catalog();
-  // gen_non_repeated_catalog();
-  gen_non_repeated_catalog_with_holiday_recommendation();
+   gen_non_repeated_catalog();
+ // gen_non_repeated_catalog_with_holiday_recommendation();
 }
 
 
